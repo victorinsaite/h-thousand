@@ -1,0 +1,14 @@
+{
+  "name": "generador-datos-aleatorios",
+  "version": "1.0.0",
+  "description": "Generador de datos aleatorios utilizando Node.js y Express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Victor Valdez Insaite",
+  "license": "MIT"
+}
